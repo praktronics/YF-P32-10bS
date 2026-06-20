@@ -18,7 +18,7 @@ This is from a very simple datasheet sent to me by the merchant, and summarised 
 
 |Pico GPIO|Pico physical pin|Function|Sensor wire|
 |-|-|-|-|
-|GPIO 8|11|SDA|Yello|
+|GPIO 8|11|SDA|Yellow|
 |GPIO 9|12|SCL|White|
 
 For testing at 100kHz I2C, you can use the RP2040's internal pullups.
