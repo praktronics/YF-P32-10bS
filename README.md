@@ -12,3 +12,6 @@ This project has some simple Raspberry Pi Pico C code to scan the I2C bus to see
 
 For testing at 100kHz I2C, you can use the RP2040's internal pullups.
 
+![Sensor image](./docs/sensor.png "Sensor")
+![Connection to Pico](./docs/connection_to_pico.jpg "I2C connection")
+![Connection to Air](./docs/connection_to_air.jpg "Air connection")
