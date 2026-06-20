@@ -2,6 +2,12 @@
 #include "pico/stdlib.h"
 #include "hardware/i2c.h"
 
+//////////////////////////////////////////////////////////
+// Author: Github Copilot
+// Date: 2024-06-10
+/////////////////////////////////////////////////////////
+
+
 // I2C defines
 // This example will use I2C0 on GPIO8 (SDA) and GPIO9 (SCL) running at 100KHz.
 // Pins can be changed, see the GPIO function select table in the datasheet for information on GPIO assignments
